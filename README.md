@@ -98,3 +98,4 @@ If you find that there is functionality missing or bugs in the release version, 
  * Open the this current directory in Android Studio (org.eclipse.paho.android.service).
  * In the toolbar along the top, there should be a dropdown menu. Make sure that it contains 'org.eclipse.android.sample' then click the Green 'Run' Triangle. It should now build and launch an Virtual Android Device to run the App. If you have an Android device with developer mode turned on plugged in, you will have the oppertunity to run it directly on that.
  * If you have any problems, check out the Android Developer Documentation for help: https://developer.android.com
+
